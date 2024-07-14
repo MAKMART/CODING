@@ -1,0 +1,10 @@
+{
+  "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ $env:MSYS2/mingw64/include/glad/glad.c (Get-ChildItem -Path . -Filter *.cpp -Recurse).FullName -o main -lopengl32 -lfreeglut -lglu32 -lglew32 -lglfw3 -lgdi32 -lmingw32 && ./main"
+  },
+  "code-runner.runInTerminal": true,
+  "C_Cpp.default.includePath": [
+    "${env:MSYS2}/mingw64/include/**"
+  ],
+  "C_Cpp.default.compilerPath": "cl.exe"
+}

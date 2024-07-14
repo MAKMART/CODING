@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\Program Files\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "-std=c++17",
+                "-I${workspaceFolder}/OpenGL/C++/include",
+                "-L${workspaceFolder}/OpenGL/C++/lib",
+                "${workspaceFolder}/OpenGL/C++/src/main.cpp",
+                "${workspaceFolder}/OpenGL/C++/src/glad.c",
+                "-lglfw3dll",
+                "-o",
+                "${workspaceFolder}/OpenGL/C++/${fileBasenameNoExtension}.exe"
+            ],                              //DONT'T CHANGE TO /src/ OTHERWISE .exe WILL BE CREATED BUT FILE WILL NOT BE RUN
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "compiler: C:\\Program Files\\mingw64\\bin\\g++.exe"
+        }
+    ]
+}
