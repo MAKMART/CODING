@@ -1,0 +1,132 @@
+COLOR:                        HEX:              0-255:                  0.0f-1.0f:
+-------------------------------------------------------------------------------------------
+Black                         #000000           0-0-0                   0.0f, 0.0f, 0.0f
+White                         #FFFFFF           255-255-255             1.0f, 1.0f, 1.0f
+10% Gray                      #EBEBEB           235-235-235             0.92f, 0.92f, 0.92f
+15% Gray                      #E1E1E1           225-225-225             0.88f, 0.88f, 0.88f
+20% Gray                      #D7D7D7           215-215-215             0.84f, 0.84f, 0.84f
+25% Gray                      #D7D7D7           204-204-204             0.8f, 0.8f, 0.8f
+30% Gray                      #C2C2C2           194-194-194             0.76f, 0.76f, 0.76f
+35% Gray                      #B7B7B7           183-183-183             0.71f, 0.71f, 0.71f
+40% Gray                      #ACACAC           172-172-172             0.67f, 0.67f, 0.67f
+45% Gray                      #A0A0A0           161-161-161             0.63f, 0.63f, 0.63f
+50% Gray                      #959595           149-149-149             0.58f, 0.58f, 0.58f
+55% Gray                      #898989           137-137-137             0.53f, 0.53f, 0.53f
+60% Gray                      #7D7D7D           125-125-125             0.49f, 0.49f, 0.49f
+65% Gray                      #707070           112-112-112             0.43f, 0.43f, 0.43f
+70% Gray                      #626262           099-099-099             0.38f, 0.38f, 0.38f
+75% Gray                      #555555           085-085-085             0.33f, 0.33f, 0.33f
+80% Gray                      #464646           070-070-070             0.27f, 0.27f, 0.27f
+85% Gray                      #363636           054-054-054             0.21f, 0.21f, 0.21f
+90% Gray                      #262626           037-037-037             0.14f, 0.14f, 0.14f
+95% Gray                      #111111           017-017-017             0.06f, 0.06f, 0.06f
+
+RGB Red                       #FF0000           255-000-000             1.0f, 0.0f, 0.0f
+RGB Yelllow                   #FFFF00           255-255-000             1.0f, 1.0f, 0.0f
+RGB Green                     #00FF00           000-255-000             0.0f, 1.0f, 0.0f
+RGB Cyan                      #00FFFF           000-255-255             0.0f, 1.0f, 1.0f
+RGB Blue                      #0000FF           000-000-255             0.0f, 0.0f, 1.0f
+RGB Magenta                   #FF00FF           255-000-255             1.0f, 0.0f, 1.0f
+CMYK Red                      #ED1C24           237-028-036             0.92f, 0.10f, 0.14f
+CMYK Yellow                   #FFF200           255-242-000             1.0f, 0.94f, 0.0f
+CMYK Green                    #00A651           000-166-810             0.0f, 0.65f, 3.17f
+CMYK Cyan                     #00AEEF           000-174-239             0.0f, 0.68f, 0.93f
+CMYK Blue                     #2E3192           046-049-146             0.18f, 0.19f, 0.57f
+CMYK Magenta                  #EC008C           236-000-140             0.92f, 0.0f, 0.54f
+
+Pastel Red                    #F7977A           246-150-121             0.96f, 0.58f, 0.47f
+Pastel Red Orange             #F9AD81           249-173-129             0.97f, 0.67f, 0.50f
+Pastel Yellow Orange          #FDC68A           253-198-137             0.99f, 0.77f, 0.53f
+Pastel Yellow                 #FFF79A           255-247-153             1.0f, 0.96f, 0.6f
+Pastel Pea Green              #C4DF9B           196-223-155             0.76f, 0.87f, 0.60f
+Pastel Yellow Green           #A2D39C           163-211-156             0.63f, 0.82f, 0.61f
+Pastel Green                  #82CA9D           130-202-156             0.50f, 0.79f, 0.61f
+Pastel Green Cyan             #7BCDC8           122-204-200             0.47f, 0.8f, 0.78f
+Pastel Cyan                   #6ECFF6           109-207-246             0.42f, 0.81f, 0.96f
+Pastel Cyan Blue              #7EA7D8           125-167-217             0.49f, 0.65f, 0.85f
+Pastel Blue                   #8493CA           131-147-202             0.51f, 0.57f, 0.79f
+Pastel Blue Violet            #8882BE           135-129-189             0.52f, 0.50f, 0.74f
+Pastel Violet                 #A187BE           161-134-190             0.63f, 0.52f, 0.74f
+Pastel Violet Magenta         #BC8DBF           189-140-191             0.74f, 0.54f, 0.74f
+Pastel Magenta                #F49AC2           244-154-193             0.95f, 0.60f, 0.75f
+Pastel Magenta Red            #F6989D           245-152-157             0.96f, 0.59f, 0.61f
+
+Light Red                     #F26C4F           242-108-079             0.94f, 0.42f, 0.30f
+Light Red Orange              #F68E55           246-142-086             0.96f, 0.55f, 0.33f
+Light Yellow Orange           #FBAF5C           251-175-093             0.98f, 0.68f, 0.36f
+Light Yellow                  #FFF467           255-245-104             1.0f, 0.96f, 0.40f
+Light Pea Green               #ACD372           172-211-115             0.67f, 0.82f, 0.45f
+Light Yellow Green            #7CC576           124-197-118             0.48f, 0.77f, 0.46f
+Light Green                   #3BB878           060-184-120             0.23f, 0.72f, 0.47f
+Light Green Cyan              #1ABBB4           28-187-180              0.10f, 0.73f, 0.70f
+Light Cyan                    #00BFF3           0-191-243               0.0f, 0.74f, 0.95f
+Light Cyan Blue               #438CCA           68-140-203              0.26f, 0.54f, 0.79f
+Light Blue                    #5574B9           86-116-185              0.33f, 0.45f, 0.72f
+Light Blue Violet             #605CA8           96-92-168               0.37f, 0.36f, 0.65f
+Light Violet                  #855FA8           133-96-168              0.52f, 0.37f, 0.65f
+Light Violet Magenta          #A763A8           168-100-168             0.65f, 0.39f, 0.65f
+Light Magenta                 #F06EA9           240-110-170             0.94f, 0.43f, 0.66f
+Light Magenta Red             #F26D7D           242-109-125             0.94f, 0.42f, 0.49f
+
+Red                           #ED1C24           237-28-36               0.92f, 0.10f, 0.14f
+Red Orange                    #F26522           242-101-34              0.94f, 0.39f, 0.13f
+Yellow Orange                 #F7941D           247-148-29              0.96f, 0.58f, 0.11f
+Yellow                        #FFF200           255-242-000             1.0f, 0.94f, 0.0f
+Pea Green                     #8DC73F           141-198-63              0.55f, 0.77f, 0.24f
+Yellow Green                  #39B54A           57-181-74               0.22f, 0.70f, 0.29f
+Green                         #00A651           0-166-81                0.0f, 0.65f, 0.31f
+Green Cyan                    #00A99D           0-169-157               0.0f, 0.66f, 0.61f
+Cyan                          #00AEEF           0-174-239               0.0f, 0.68f, 0.93f
+Cyan Blue                     #0072BC           0-114-088               0.0f, 0.44f, 0.34f
+Blue                          #0054A6           0-84-166                0.0f, 0.32f, 0.65f
+Blue Violet                   #2E3192           49-49-146               0.19f, 0.19f, 0.57f
+Violet                        #662D91           46-49-146               0.18f, 0.19f, 0.57f
+Violet Magenta                #92278F           146-39-1436             0.57f, 0.15f, 5.63f
+Magenta                       #EC008C           236-0-140               0.92f, 0.0f, 0.54f
+Magenta Red                   #ED145B           237-20-91               0.92f, 0.07f, 0.35f
+
+Dark Red                      #9E0B0F           158-11-15               0.61f, 0.04f, 0.05f
+Dark Red Orange               #A0410D           160-65-13               0.62f, 0.25f, 0.05f
+Dark Yellow Orange            #A36209           136-98-10               0.53f, 0.38f, 0.03f
+Dark Yellow                   #ABA000           171-160-0               0.67f, 0.62f, 0.0f
+Dark Pea Green                #598527           89-133-39               0.34f, 0.52f, 0.15f
+Dark Yellow Green             #1A7B30           25-123-48               0.09f, 0.48f, 0.18f
+Dark Green                    #007236           0-114-54                0.0f, 0.44f, 0.21f
+Dark Green Cyan               #00746B           0-116-107               0.0f, 0.45f, 0.41f
+Dark Cyan                     #0076A3           0-118-163               0.0f, 0.46f, 0.63f
+Dark Cyan Blue                #004B80           0-74-128                0.0f, 0.29f, 0.50f
+Dark Blue                     #003471           0-52-113                0.0f, 0.20f, 0.44f
+Dark Blue Violet              #1B1464           27-20-100               0.10f, 0.07f, 0.39f
+Dark Violet                   #440E62           68-14-98                0.26f, 0.05f, 0.38f
+Dark Violet Magenta           #630460           99-4-96                 0.38f, 0.01f, 0.37f
+Dark Magenta                  #9E005D           158-0-93                0.61f, 0.0f, 0.36f
+Dark Magenta Red              #9E0039           158-0-57                0.61f, 0.0f, 0.22f
+
+Darker Red                    #790000           121-0-0                 0.47f, 0.0f, 0.0f
+Darker Red Orange             #7B2E00           123-46-0                0.48f, 0.18f, 0.0f
+Darker Yellow Orange          #7D4900           125-73-0                0.49f, 0.28f, 0.0f
+Darker Yellow                 #827B00           130-123-0               0.50f, 0.48f, 0.0f
+Darker Pea Green              #406618           64-102-24               0.25f, 0.4f, 0.09f
+Darker Yellow Green           #005E20           0-94-32                 0.0f, 0.36f, 0.12f
+Darker Green                  #005826           0-88-38                 0.0f, 0.34f, 0.14f
+Darker Green Cyan             #005952           0-89-82                 0.0f, 0.34f, 0.32f
+Darker Cyan                   #005B7F           0-91-127                0.0f, 0.35f, 0.49f
+Darker Cyan Blue              #003663           0-54-99                 0.0f, 0.21f, 0.38f
+Darker Blue                   #002157           0-33-87                 0.0f, 0.12f, 0.34f
+Darker Blue Violet            #0D004C           13-0-76                 0.05f, 0.0f, 0.29f
+Darker Violet                 #32004B           50-0-75                 0.19f, 0.0f, 0.29f
+Darker Violet Magenta         #4B0049           75-0-73                 0.29f, 0.0f, 0.28f
+Darker Magenta                #7B0046           123-0-70                0.48f, 0.0f, 0.27f
+Darker Magenta Red            #7A0026           122-70-38               0.47f, 0.27f, 0.14f
+
+Pale Cool Brown               #C7B299           199-178-156             0.78f, 0.69f, 0.61f
+Light Cool Brown              #998675           153-134-117             0.6f, 0.52f, 0.45f
+Medium Cool Brown             #736357           115-99-87               0.45f, 0.38f, 0.34f
+Dark Cool Brown               #534741           83-71-65                0.32f, 0.27f, 0.25f
+Darker Cool Brown             #37302D           55-48-45                0.21f, 0.18f, 0.17f
+Pale Warm Brown               #C69C6E           198-156-110             0.77f, 0.61f, 0.43f
+Light Warm Brown              #A67C52           166-124-82              0.65f, 0.48f, 0.32f
+Medium Warm Brown             #8C6239           140-98-57               0.54f, 0.38f, 0.22f
+Dark Warm Brown               #754C24           117-76-36               0.45f, 0.29f, 0.14f
+Darker Warm Brown             #603913           96-57-19                0.37f, 0.22f, 0.07f
+-------------------------------------------------------------------------------------------
